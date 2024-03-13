@@ -8,8 +8,11 @@ const App = () => {
     const handleBookMark = (blog) => {
         setBookMarks([...bookmarks,blog])
     }
-    const handleReadingTime = (time) => {
-        setReadingTime(readingTime+time)
+    const handleReadingTime = (id, time) => {
+        console.log(id)
+        setReadingTime(readingTime + time)
+        const removeBookMark = bookmarks.filter(bookmarks => bookmarks.id !== id)
+        setBookMarks(removeBookMark)
     }
     return (
         <div className="container mx-auto">

@@ -18,7 +18,7 @@ const Blog = ({ blog,handleBookMark,handleReadingTime }) => {
                 </div>
             </div>
             <h1 className="text-xl font-semibold px-3">{title}</h1>
-            <button className="bg-yellow-500 text-white px-3 rounded-xl my-3" onClick={() => handleReadingTime(reading_time)}>Mark as read</button>
+            <button className="bg-yellow-500 text-white px-3 rounded-xl my-3" onClick={() => handleReadingTime(id,reading_time)}>Mark as read</button>
         </div>
     )
 }
