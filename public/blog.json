@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "cover_photo": "https://i.ibb.co/j8LJgxP/blog-notes-concept-with-wooden-blocks-pen-black-notebook-top-view-1.jpg",
+    "cover_photo": "https://i.ibb.co/Nrn8LRT/flat-lay-desktop-with-notebook-pizza.jpg",
     "title": "The Power of Positive Thinking: Transform Your Life",
     "author_image": "https://i.ibb.co/d5Qh31n/bohemian-man-with-his-arms-crossed.jpg",
     "author_name": "Emily Brown",
@@ -41,62 +41,13 @@
   },
   {
     "id": 5,
-    "cover_photo": "https://i.ibb.co/j8LJgxP/blog-notes-concept-with-wooden-blocks-pen-black-notebook-top-view-1.jpg",
+    "cover_photo": "https://i.ibb.co/q7xmWdQ/keyboard-tea-cup-apple-office-stationeries-black-background.jpg",
     "title": "Innovations in Technology: Shaping the Future",
     "author_image": "https://i.ibb.co/d5Qh31n/bohemian-man-with-his-arms-crossed.jpg",
     "author_name": "Michael Johnson",
     "post_date": "2024-03-04",
     "reading_time": 18 ,
     "hashtags": ["technology", "innovation", "future"]
-  },
-  {
-    "id": 6,
-    "cover_photo": "https://i.ibb.co/j8LJgxP/blog-notes-concept-with-wooden-blocks-pen-black-notebook-top-view-1.jpg",
-    "title": "The World of Literature: Exploring Classic Works",
-    "author_image": "https://i.ibb.co/d5Qh31n/bohemian-man-with-his-arms-crossed.jpg",
-    "author_name": "Sarah Miller",
-    "post_date": "2024-03-02",
-    "reading_time": 25,
-    "hashtags": ["literature", "books", "classics"]
-  },
-  {
-    "id": 7,
-    "cover_photo": "https://i.ibb.co/j8LJgxP/blog-notes-concept-with-wooden-blocks-pen-black-notebook-top-view-1.jpg",
-    "title": "Fitness and Well-being: Achieving Your Health Goals",
-    "author_image": "https://i.ibb.co/d5Qh31n/bohemian-man-with-his-arms-crossed.jpg",
-    "author_name": "Alex Clark",
-    "post_date": "2024-02-29",
-    "reading_time": 22,
-    "hashtags": ["fitness", "health", "wellbeing"]
-  },
-  {
-    "id": 8,
-    "cover_photo": "https://i.ibb.co/j8LJgxP/blog-notes-concept-with-wooden-blocks-pen-black-notebook-top-view-1.jpg",
-    "title": "Exploring the Wonders of Nature: A Journey Outdoors",
-    "author_image": "https://i.ibb.co/d5Qh31n/bohemian-man-with-his-arms-crossed.jpg",
-    "author_name": "Daniel White",
-    "post_date": "2024-02-27",
-    "reading_time": 30 ,
-    "hashtags": ["nature", "outdoors", "adventure"]
-  },
-  {
-    "id": 9,
-    "cover_photo": "https://i.ibb.co/j8LJgxP/blog-notes-concept-with-wooden-blocks-pen-black-notebook-top-view-1.jpg",
-    "title": "The World of Art: Discovering Creativity",
-    "author_image": "https://i.ibb.co/d5Qh31n/bohemian-man-with-his-arms-crossed.jpg",
-    "author_name": "Jessica Taylor",
-    "post_date": "2024-02-25",
-    "reading_time": 17,
-    "hashtags": ["art", "creativity", "inspiration"]
-  },
-  {
-    "id": 10,
-    "cover_photo": "https://i.ibb.co/j8LJgxP/blog-notes-concept-with-wooden-blocks-pen-black-notebook-top-view-1.jpg",
-    "title": "Exploring the Rich History of Civilization",
-    "author_image": "https://i.ibb.co/d5Qh31n/bohemian-man-with-his-arms-crossed.jpg",
-    "author_name": "Robert Wilson",
-    "post_date": "2024-02-23",
-    "reading_time": 28,
-    "hashtags": ["history", "civilization", "culture"]
   }
+  
 ]
